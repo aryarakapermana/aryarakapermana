@@ -1,6 +1,7 @@
 ### Roles:  
 - Junior Web Developer   
 - Tech Enthusiast
+- Network Engginer
 
 ## 💻 Tech Stack:
 
